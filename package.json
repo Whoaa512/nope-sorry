@@ -1,0 +1,15 @@
+{
+  "name": "nope-sorry",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whoaa512/nope-sorry.git"
+  },
+  "bugs": {
+    "url": "https://github.com/whoaa512/nope-sorry/issues"
+  },
+  "homepage": "https://github.com/whoaa512/nope-sorry#readme",
+  "author": "C.J. Winslow <whoaa512@gmail.com> (https://github.com/whoaa512)",
+  "license": "MIT"
+}
